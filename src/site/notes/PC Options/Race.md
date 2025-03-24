@@ -14,7 +14,7 @@
 - [[Halfling\|Halfling]]
 - [[Harengon\|Harengon]]
 - [[PC Options/Races/Hobgoblin\|Hobgoblin]]
-- [[Human\|Human]]
+- [[PC Options/Races/Human\|Human]]
 - [[Leonin\|Leonin]]
 - [[Loxodon\|Loxodon]]
 - [[Orc\|Orc]]
