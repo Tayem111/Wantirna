@@ -1,18 +1,16 @@
 ---
-{"dg-home":null,"dg-publish":true,"permalink":"/pc-options/race/","dgPassFrontmatter":true,"created":"2025-03-22T13:52:03.624+11:00","updated":"2025-03-22T23:00:34.875+11:00"}
+{"dg-home":null,"dg-publish":true,"aliases":["race","races","Races"],"permalink":"/pc-options/race/","dgPassFrontmatter":true,"created":"2025-03-22T13:52:03.624+11:00","updated":"2025-03-27T17:05:11.346+11:00"}
 ---
 
 - [[Aasimar\|Aasimar]]
 - [[Dragonborn\|Dragonborn]]
 - [[Dwarf\|Dwarf]]
 - [[Elf\|Elf]]
-- [[Fairy\|Fairy]]
 - [[Firbolg\|Firbolg]]
 - [[Gnome\|Gnome]]
 - [[Goblin\|Goblin]]
 - [[Goliath\|Goliath]]
 - [[Halfling\|Halfling]]
-- [[Harengon\|Harengon]]
 - [[PC Options/Races/Hobgoblin\|Hobgoblin]]
 - [[PC Options/Races/Human\|Human]]
 - [[Leonin\|Leonin]]

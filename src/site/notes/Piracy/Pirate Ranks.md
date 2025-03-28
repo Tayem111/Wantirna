@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/piracy/pirate-ranks/","dgPassFrontmatter":true,"created":"2025-03-19T17:40:02.276+11:00","updated":"2025-03-23T17:08:55.790+11:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/piracy/pirate-ranks/","dgPassFrontmatter":true,"created":"2025-03-19T17:40:02.276+11:00","updated":"2025-03-28T20:28:06.337+11:00"}
 ---
 
 The roles taken on by [[Piracy/Pirates\|Pirates]] in their crew.
@@ -46,8 +46,7 @@ The roles taken on by [[Piracy/Pirates\|Pirates]] in their crew.
 
 ---
 
-### **Pirate Society Beyond the Ship**
+### **Beyond the Ship**
 
 - **[[Pirate Lords\|Pirate Lords]]:** Powerful Captains who rule over fleets or entire regions of the Shattered Isles. They often hold court in hidden ports or floating fortresses, commanding the loyalty of lesser crews.
 - **[[Piracy/Locations/Free Haven\|Free Havens]]:** A neutral gathering place for pirates, where crews can rest, trade, and settle disputes without fear of attack. It’s governed by a council of Pirate Lords and protected by ancient wards.
-- **[[Ghost Fleet\|The Ghost Fleet]]:** A legendary armada of undead pirates who roam the seas, enforcing the unwritten rules of piracy and punishing those who bring dishonour to the pirate way of life.

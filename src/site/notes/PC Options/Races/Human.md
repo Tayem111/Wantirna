@@ -1,7 +1,6 @@
 ---
-{"dg-home":null,"dg-publish":true,"permalink":"/pc-options/races/human/","dgPassFrontmatter":true,"created":"2025-03-24T16:47:37.357+11:00","updated":"2025-03-24T16:54:24.986+11:00"}
+{"dg-home":null,"dg-publish":true,"aliases":["human","Humans","humans"],"permalink":"/pc-options/races/human/","dgPassFrontmatter":true,"created":"2025-03-24T16:47:37.357+11:00","updated":"2025-03-24T21:53:53.274+11:00"}
 ---
-
 
 Found throughout the world, humans are as varied as they are numerous. They are relatively short-lived, but they strive to achieve as much as they can in the years they are given. They are skilled pioneers and artisans. They are builders of nations, roads, cities, and ships. They strive to secure their place in the world and in the annals of history by creating art, amassing wealth, making laws, and questing for immortality. Their ambition and resourcefulness are commended, respected, and feared.
 
