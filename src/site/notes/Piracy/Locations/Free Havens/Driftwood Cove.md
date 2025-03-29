@@ -1,5 +1,5 @@
 ---
-{"dg-home":null,"dg-publish":true,"aliases":["Driftwood"],"permalink":"/piracy/locations/free-havens/driftwood-cove/","dgPassFrontmatter":true,"created":"2025-03-24T17:04:53.280+11:00","updated":"2025-03-24T21:33:57.444+11:00"}
+{"dg-home":null,"dg-publish":true,"aliases":["Driftwood"],"permalink":"/piracy/locations/free-havens/driftwood-cove/","dgPassFrontmatter":true,"created":"2025-03-24T17:04:53.280+11:00","updated":"2025-03-30T01:26:43.826+11:00"}
 ---
 
 A sprawling floating [[Piracy/Locations/Free Haven\|Free Haven]] anchored to a cluster of jagged rocks in the middle of **[[Terrors Passage\|Terrors Passage]]**, Driftwood Cove is a marvel of [[Piracy/Pirates\|pirate]] engineering. Built from the salvaged remains of shipwrecks, the city bobs and sways with the waves, connected by a network of rope bridges, wooden planks, and floating platforms. The constant creak of wood and the salty spray of the sea give the city a unique, lively atmosphere.
@@ -12,7 +12,7 @@ A sprawling floating [[Piracy/Locations/Free Haven\|Free Haven]] anchored to a c
 
 **The Floating Bazaar**  
 A chaotic marketplace built on interconnected rafts and ships, where pirates trade everything from stolen goods to exotic artefacts. Vendors shout over each other, hawking their wares, while pickpockets weave through the crowd.
-The bazaar is a treasure trove of unique items—enchanted weapons, cursed trinkets, and rare spices. However, buyers must beware; some items come with unexpected consequences. A mysterious vendor known only as **[[The Curator\|The Curator]]** sells strange relics from the deep sea, but their origins are always questionable.
+The bazaar is a treasure trove of unique items—enchanted weapons, cursed trinkets, and rare spices. However, buyers must beware; some items come with unexpected consequences.
 
 **The Shipwright’s Sanctum**
 A massive dry dock where ships are repaired and refitted. The sanctum is run by **Grimshaw**, a grizzled dwarf with a talent for crafting ships that can outrun the wind. The air is filled with the sounds of hammering, sawing, and the occasional explosion as Grimshaw tests new inventions. Grimshaw is always looking for rare materials to improve his ships, and he’s willing to pay handsomely for them. He’s also a source of information about the latest naval technologies and the weaknesses of rival ships.

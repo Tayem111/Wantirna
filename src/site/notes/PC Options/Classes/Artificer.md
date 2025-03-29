@@ -1,5 +1,5 @@
 ---
-{"dg-home":null,"dg-publish":true,"permalink":"/pc-options/classes/artificer/","dgPassFrontmatter":true,"created":"2025-03-23T02:06:57.773+11:00","updated":"2025-03-24T21:29:51.282+11:00"}
+{"dg-home":null,"dg-publish":true,"aliases":["artificer","Artificers","artificers"],"permalink":"/pc-options/classes/artificer/","dgPassFrontmatter":true,"created":"2025-03-23T02:06:57.773+11:00","updated":"2025-03-30T02:02:21.968+11:00"}
 ---
 
 

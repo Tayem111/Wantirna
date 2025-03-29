@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/piracy/code-of-the-passage/","dgPassFrontmatter":true,"created":"2025-03-19T17:18:25.353+11:00","updated":"2025-03-23T17:14:14.657+11:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/piracy/code-of-the-passage/","dgPassFrontmatter":true,"created":"2025-03-19T17:18:25.353+11:00","updated":"2025-03-30T01:42:15.900+11:00"}
 ---
-
 
 _Guidelines for those who sail the mystical seas of [[Terrors Passage\|Terrors Passage]], inspired by the whispers of chaos and the freedom of the open waves._
 
