@@ -1,5 +1,5 @@
 ---
-{"dg-home":null,"dg-publish":true,"aliases":["naval combat","Naval combat"],"permalink":"/piracy/naval-combat/","dgPassFrontmatter":true,"created":"2025-03-31T17:47:47.531+11:00","updated":"2025-04-01T19:00:05.614+11:00"}
+{"dg-home":null,"dg-publish":true,"aliases":["naval combat","Naval combat"],"permalink":"/piracy/naval-combat/","dgPassFrontmatter":true,"created":"2025-03-31T17:47:47.531+11:00","updated":"2025-04-02T23:39:45.905+11:00"}
 ---
 
 [[Piracy/Pirates\|Pirate]]
@@ -7,10 +7,10 @@
 ## Ships Stats
 
 ### HP
-The amount of hit-points a ship has is determined by its type and is the amount of damage it can take before becoming **derelict**. The ratio of comparison with ship health to player/monster health is 1:5, meaning if a player attacks a ship, the damage dealt is divided by 5, and if a ship attacks a player, the damage dealt is multiplied by 5.
+The amount of hit-points a ship has is determined by its type and is the amount of damage it can take before becoming **derelict**.
 
 **Derelict**
-When a ship reaches 0 hit-points, it is considered derelict. While derelict, the ships speed becomes 0, and it can not take any actions unless healed above 0, or out of combat. If it get hit while derelict, roll on the derelict chart.
+When a ship reaches 0 hit-points, it is considered derelict. While derelict, the ships [[Piracy/Naval Combat#speed\|#speed]] becomes 0, and it can not take any actions unless healed above 0, or out of combat. If it get hit while derelict, roll on the derelict chart.
 
 **Derelict Chart** (d8)
 1. No effect
@@ -23,7 +23,7 @@ When a ship reaches 0 hit-points, it is considered derelict. While derelict, the
 8. *Major Explosion.* Ship sinks, all aboard take 2d8 force damage
 
 ### Hull
-The Hull is the amount of pressure a ship can take, before it takes any damage. For every action that damages the ship, roll the hull dice and remove the number rolled from the damage dealt.
+The Hull is the amount of pressure a ship can take before it takes any damage. For every action that damages the ship, roll the hull dice and remove the number rolled from the damage dealt.
 
 ### Mobility
 The mobility of the ship represents its ability to steer and move. Add the value, determined by your ship, to every initiative roll taken. 
@@ -32,7 +32,7 @@ The mobility of the ship represents its ability to steer and move. Add the value
 The ships speed is the amount of hexes it can move per turn. A rotation (which can only be done once per hex) counts as one hex of movement. One hex represents 50 feet.
 
 ### Broadsides
-Every good pirate crew have their walls lined with cannons. The broadside dice is the amount of damage dealt by every shot, preformed by the [[Piracy/Naval Combat#Fire Broadsides\|#Fire Broadsides]] action. 
+Every good pirate crew have their walls lined with cannons. The broadside dice is the amount of damage dealt by every shot, preformed by the [[Piracy/Naval Combat#Fire Broadsides\|#Fire Broadsides]] action. The broadside range is the maximum distance a shot can be, before being an automatic miss.
 
 ### Bow
 Bow is the amount of damage the ship deals when involved in a [[Piracy/Naval Combat#Ram\|#Ram]] action.
@@ -47,7 +47,7 @@ The cargo number represents the amount of slots a ship can carry. Slots can be t
 ## Ship Actions
 
 ### Initiative
-When combat is initiated, at the beginning of every round, the captains of all ships must make an initiative roll and add their [[Piracy/Naval Combat#Mobility\|#Mobility]]. Whoever rolls lowest moves first, then the highest. If the one who rolled higher moves through the path of a ship that rolled lower, it can choose to take the [[Piracy/Naval Combat#Hull\|#Hull]] action. Once all ships have moved, each ship takes their action, in order of highest rolled initiative, to the lowest. Once all actions are complete, crew members can take their actions in whatever order decided, then initiative is rerolled, and the cycle continues.
+When combat is initiated, at the beginning of every round, the captains of all ships must make an initiative roll **(1d6)** and add their [[Piracy/Naval Combat#Mobility\|#Mobility]]. Whoever rolls lowest moves first, then the highest. If the one who rolled higher moves through the path of a ship that rolled lower, it can choose to take the [[Piracy/Naval Combat#Hull\|#Hull]] action. Once all ships have moved, each ship takes their action, in order of highest rolled initiative, to the lowest. Once all actions are complete, crew members can take their actions in whatever order decided, then initiative is rerolled, and the cycle continues.
 
 ### Fire Broadsides
 When this action is taken, roll the [[Piracy/Naval Combat#Broadsides\|#Broadsides]] dice to deal damage to the rival ships. If multiple ships are targeted, dice rolls can be split up, by choice of the captain, dealing different amounts of damage to the different ships. Broadsides can only be fired when the enemy ship is on the sides of the ship, and must be within 6 hexes.

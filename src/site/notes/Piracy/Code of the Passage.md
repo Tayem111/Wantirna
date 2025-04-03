@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":null,"permalink":"/piracy/code-of-the-passage/","dgPassFrontmatter":true,"created":"2025-03-19T17:18:25.353+11:00","updated":"2025-03-31T17:48:15.402+11:00"}
+{"dg-publish":true,"dg-home":null,"permalink":"/piracy/code-of-the-passage/","dgPassFrontmatter":true,"created":"2025-03-19T17:18:25.353+11:00","updated":"2025-04-03T17:08:13.095+11:00"}
 ---
 
 *Guidelines for those who sail the mystical seas of [[Terrors Passage\|Terrors Passage]], inspired by the whispers of chaos and the freedom of the open waves.*
@@ -18,9 +18,9 @@ Loot is meant to be shared, not hoarded. The Captain and Quartermaster usually t
 
 ---
 
-#### **Article III: Respect the Sea**
+#### **Article III: Feast Under the Moon**
 
-The sea is both friend and foe. Offer a tribute to Neryssa before a big voyage—rum, gold, or something shiny. It’s not about fear; it’s about respect. Those who ignore the sea’s whims might find themselves battling storms or worse.
+When the full moon rises, it’s time to celebrate. Share food, drink, and stories with your crew. It’s a night of peace and camaraderie—no fighting, no grudges, just good vibes.
 
 ---
 
@@ -54,13 +54,7 @@ The pirate who spots a prize first gets a little extra something when the loot i
 
 ---
 
-#### **Article IX: Feast Under the Moon**
+#### **Article IX: The Code is a Suggestion**
 
-When the full moon rises, it’s time to celebrate. Share food, drink, and stories with your crew. It’s a night of peace and camaraderie—no fighting, no grudges, just good vibes.
-
----
-
-#### **Article X: The Code is a Suggestion**
-
-The Code of the Azure Veil isn’t carved in stone. It’s a set of ideals, not rules. Pirates are free to follow it or ignore it, but those who live by the Code tend to find more friends—and more treasure—on the open seas.
+The Code of the Passage isn’t carved in stone. It’s a set of ideals, not rules. Pirates are free to follow it or ignore it, but those who live by the Code tend to find more friends—and more treasure—on the open seas.
 

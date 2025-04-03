@@ -1,5 +1,5 @@
 ---
-{"dg-home":null,"dg-publish":true,"aliases":null,"permalink":"/darkwater/the-ship/","dgPassFrontmatter":true,"created":"2025-04-02T07:47:00.388+11:00","updated":"2025-04-03T17:12:01.986+11:00"}
+{"dg-home":null,"dg-publish":true,"aliases":null,"permalink":"/darkwater/the-ship/","dgPassFrontmatter":true,"created":"2025-04-02T07:47:00.388+11:00","updated":"2025-04-03T23:11:24.171+11:00"}
 ---
 
 ## Maps
@@ -56,5 +56,6 @@ Used for [[Piracy/Naval Combat\|naval combat]]
 - Potion of Animal Friendship
 - *1200 CP*
 - *8000 SP*
-- *2000 GP*
+- *3000 GP*
 - *50 PP*
+*Cost to upkeep the ship, pay the crew, make and get food, and replenish used bolts is **60GP per day***
