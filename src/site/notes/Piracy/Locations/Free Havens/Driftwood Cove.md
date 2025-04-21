@@ -27,4 +27,4 @@ A towering lighthouse built on the highest rock in the city. The lighthouse is m
 ---
 
 
-![DriftwoodClove.png](/img/user/Nations/Loose%20Images/DriftwoodClove.png)
+![DriftwoodClove.png](/img/user/Loose%20Images/DriftwoodClove.png)

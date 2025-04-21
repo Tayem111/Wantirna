@@ -1,5 +1,5 @@
 ---
-{"dg-home":null,"dg-publish":true,"aliases":null,"permalink":"/darkwater/the-ship/","dgPassFrontmatter":true,"created":"2025-04-02T07:47:00.388+11:00","updated":"2025-04-03T23:11:24.171+11:00"}
+{"dg-home":null,"dg-publish":true,"aliases":null,"permalink":"/darkwater/the-ship/","dgPassFrontmatter":true,"created":"2025-04-02T07:47:00.388+11:00","updated":"2025-04-11T16:45:51.062+10:00"}
 ---
 
 ## Maps
@@ -39,14 +39,14 @@ Used for [[Piracy/Naval Combat\|naval combat]]
 
 ## Treasure
 - Well detailed sculpture of Emperor [[Ilmater\|Ilmater]] (300GP)
-	- Purchased by [[Darkwater/NPC's/Gimli "Rock" Stone\|Gimli "Rock" Stone]] at a [[Piracy/Locations/Free Haven\|Free Haven]] because of his strong interest in the [[Nations/Nations\|5 Powers's]] history
+	- Purchased by [[Darkwater/Crew/Gimli Stone\|Gimli Stone]] at a [[Piracy/Locations/Free Haven\|Free Haven]] because of his strong interest in the [[Nations/Nations\|5 Powers's]] history
 	- Fair condition
 - "**The Warrior**", a painting by famous painter, *Jensen Manzoukas* (200 GP)
-	- Stolen from an unguarded ship by [[Darkwater/NPC's/Jane Gold\|Jane Gold]] at the [[Lightest Enclave\|Lightest Enclave]]
+	- Stolen from an unguarded ship by [[Darkwater/Crew/Jane Gold\|Jane Gold]] at the [[Lightest Enclave\|Lightest Enclave]]
 	- Mint condition
 - Tiamats Scale (350 GP)
 	- A scale taken from Tiamat during a battle that ended in a flee.
-	- Stolen from an unguarded ship by [[Darkwater/NPC's/Jane Gold\|Jane Gold]] at the [[Lightest Enclave\|Lightest Enclave]]
+	- Stolen from an unguarded ship by [[Darkwater/Crew/Jane Gold\|Jane Gold]] at the [[Piracy/Locations/Free Havens/Arcanum Anchorage\|Arcanum Anchorage]]
 - **The [[Darkwater/Darkwater Pirates\|Darkwater Pirates]]** (100 GP)
 	- A crew portrait of the crew 5 years ago
 	- Painted by ex-crewmember [[Gabriel Ascendus\|Gabriel Ascendus]]
@@ -58,4 +58,4 @@ Used for [[Piracy/Naval Combat\|naval combat]]
 - *8000 SP*
 - *3000 GP*
 - *50 PP*
-*Cost to upkeep the ship, pay the crew, make and get food, and replenish used bolts is **60GP per day***
+*Cost to upkeep the ship, pay the crew, make and get food and replenish used bolts is **30GP per day***!
